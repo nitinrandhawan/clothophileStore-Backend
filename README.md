@@ -1,18 +1,20 @@
-# Project Name
+# E-commerce Backend
 
-## Description
-A brief description of the project, explaining its purpose, features, and technologies used.
+This repository houses the backend for an e-commerce application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
+**Key Features:**
 
-## Installation
+* **User Authentication:** User registration, login, and password management.
+* **Product Management:** Adding, updating, deleting, and retrieving product information.
+* **Order Management:** Processing orders, managing order statuses, and handling payments.
+* **Cart Management:** Adding and removing products to/from the cart.
+* **Inventory Management:** Tracking product stock levels.
+* **Admin Panel:** (Optional) For managing products, orders, and users.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+**Technologies Used:**
+
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Authentication:** JWT
+* **Cloud Services:** AWS (Optional)
+
